@@ -1,0 +1,5 @@
+Discussed with Gauransh Soni.
+took help from class notes and nptel lectures to understand AVL insertion and Deletion.
+All code written is mine.
+
+Tried to implement deletion in AVL tree but could not finish it hence replaced it with a lazy delete. 
